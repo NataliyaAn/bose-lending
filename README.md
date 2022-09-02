@@ -1,2 +1,2 @@
-# Base layout template with Gulp, SCSS and Stylelint
+# layout with Gulp, SCSS and Stylelint
 
